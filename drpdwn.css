@@ -1,0 +1,74 @@
+
+.ddmenu-list-g {
+    position: relative;
+    left: 230px;
+    top: -30px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-g:hover .ddmenu-list-g{display: block;}
+.gray:hover {
+    color: gray;
+}
+
+
+
+
+
+.ddmenu-list-d {
+    position: relative;
+    left: 230px;
+    top: -30px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-d:hover .ddmenu-list-d{display: block;}
+
+
+
+.ddmenu-list-dj {
+    position: relative;
+    left: 230px;
+    top: -30px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-dj:hover .ddmenu-list-dj{display: block;}
+
+
+
+.ddmenu-list-w {
+    position: relative;
+    left: 230px;
+    top: -60px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-w:hover .ddmenu-list-w{display: block;}
+
+
+
+.ddmenu-list-k {
+    position: relative;
+    left: 230px;
+    top: -60px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-k:hover .ddmenu-list-k{display: block;}
+
+
+.ddmenu-list-gd {
+    position: relative;
+    left: 230px;
+    top: -60px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-gd:hover .ddmenu-list-gd{display: block;}
