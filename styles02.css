@@ -1,0 +1,264 @@
+
+.float{
+    top: 0px;
+    left:0px;
+    width: 100%;
+    height: 30px;
+    top:50px;
+    background-color:aqua;
+    position: absolute;
+}
+.Main_page_link{
+    text-decoration: none;
+    padding: 25px 10px;
+    color:red;
+    display: inline;
+}
+.About_page_link{
+    text-decoration: none;
+    padding: 60px 360px;
+    color:red;
+    display: inline;
+}
+.Other_page{
+    text-decoration: none;
+    padding: 25px 10px;
+    color:red;
+    display: inline;
+}
+.list{
+    top:100px;
+    position: absolute;
+    width:300px;
+    left:20px;
+
+
+}
+body {
+    height: 1500px;
+    margin: 0;
+}
+.drums , .wind_instr,  .guitar_devices{
+     background-color: #AFEEEE;
+    width: 230px;
+    font-family: cursive;
+    font-weight: 800;
+    
+    font-size: 22px;
+    border:1px solid lightblue;
+
+
+}
+.list_head{
+    color:black;
+    background-color: #7B68EE;
+    opacity: .3;
+    
+    height:35px;
+    display: inline;
+    top:480px;
+    font-weight: 800;
+    font-size: 22px;
+    border:1px solid lightblue;
+    width: 3px;
+    display: inline;
+    
+}
+.guitars , .dj, .keyboard_instr{
+    background-color: #AFEEEE;
+    width: 230px;
+    font-family: cursive;
+    font-weight: 800;
+    
+    font-size: 22px;
+    border:1px solid lightblue;
+    
+}
+.t_head_1{
+    display:inline;
+    position: absolute;
+    width:600px;
+    top:10px;
+  
+    top:130px;
+    left:396px;
+    background-color: #00FF00;
+    
+}
+.t_head_2{
+    height: 23px;
+    width: 400px;
+    position: absolute;
+    top:1px;
+    
+    background-color: #00FF00;
+ 
+}
+.About, .OTHER{
+position: absolute;
+width:600px;
+top:10px;
+margin-left: 350px;
+
+}
+.tovar_1_txt{
+position: absolute;
+top:440px;
+margin-left: 370px; 
+}
+.tovar_1_img {
+height: 275px;
+width: 200px;
+position: absolute;
+top:160px;
+margin-left: 410px;}
+.tovar_2 {
+height: 275px;
+width: 200px;
+position: absolute;
+top:160px;
+margin-left: 610px;
+}
+.tovar_2_img {
+    height: 275px;
+    width: 200px;
+}
+
+.tovar_3 {
+height: 275px;
+width: 200px;
+position: absolute;
+top:160px;
+margin-left: 810px;
+}
+
+.tovar_3_img {
+    height: 275px;
+    width: 200px;
+}
+
+.tovar_4 {
+    height: 275px;
+width: 200px;
+position: absolute;
+top:160px;
+margin-left: 1010px;
+
+}
+
+.tovar_4_img {
+    height: 275px;
+    width: 200px;
+}
+
+.tovary2 {
+height: 275px;
+width: 200px;
+position: absolute;
+top:480px;
+padding-left: 410px;
+display:inline-block;
+}
+
+.tovar2_1 {
+height: 275px;
+width: 200px;
+position: absolute;
+top:80px;
+padding-left: 10px;
+display:inline-block;
+}
+
+.tovar2_1_img {
+height: 275px;
+width: 200px;
+
+}
+
+.tovar2_2 {
+height: 275px;
+width: 200px;
+position: absolute;
+top:80px;
+padding-left: 300px;
+display:inline-block;
+}
+
+.tovar2_2_img {
+height: 275px;
+width: 200px;
+
+}
+
+.tovar2_3 {
+height: 275px;
+width: 200px;
+position: absolute;
+top:80px;
+padding-left: 550px;
+display:inline-block;
+}
+
+.tovar2_3_img {
+height: 275px;
+width: 200px;
+
+}
+
+/* .ddmenu-link-g {
+
+}
+.ddmenu-list-g {
+    position: relative;
+    left: 230px;
+    top: -30px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-g:hover .ddmenu-list-g{display: block;}
+.yamaha:hover {
+    color: gray;
+}
+.admira:hover {
+    color: gray;
+}
+
+
+
+.ddmenu-link-d {
+
+}
+.ddmenu-list-d {
+    position: relative;
+    left: 230px;
+    top: -30px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-d:hover .ddmenu-list-d{display: block;}
+.hoshinogakki:hover {
+    color: gray;
+}
+
+
+
+.ddmenu-link-dj {
+
+}
+.ddmenu-list-dj {
+    position: relative;
+    left: 230px;
+    top: -30px;
+    background-color: #AFEEEE;
+    display: none;
+    border: 2px solid lightblue;
+}
+.ddmenu-link-dj:hover .ddmenu-list-dj{display: block;}
+.pioneer:hover {
+    color: gray;
+}
+.numark:hover {
+    color: gray;
+} */
