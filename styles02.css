@@ -3,8 +3,8 @@
     top: 0px;
     left:0px;
     width: 100%;
-    height: 30px;
-    top:50px;
+    height: 45px;
+    top: 0px;
     background-color:aqua;
     position: absolute;
 }
@@ -204,61 +204,3 @@ height: 275px;
 width: 200px;
 
 }
-
-/* .ddmenu-link-g {
-
-}
-.ddmenu-list-g {
-    position: relative;
-    left: 230px;
-    top: -30px;
-    background-color: #AFEEEE;
-    display: none;
-    border: 2px solid lightblue;
-}
-.ddmenu-link-g:hover .ddmenu-list-g{display: block;}
-.yamaha:hover {
-    color: gray;
-}
-.admira:hover {
-    color: gray;
-}
-
-
-
-.ddmenu-link-d {
-
-}
-.ddmenu-list-d {
-    position: relative;
-    left: 230px;
-    top: -30px;
-    background-color: #AFEEEE;
-    display: none;
-    border: 2px solid lightblue;
-}
-.ddmenu-link-d:hover .ddmenu-list-d{display: block;}
-.hoshinogakki:hover {
-    color: gray;
-}
-
-
-
-.ddmenu-link-dj {
-
-}
-.ddmenu-list-dj {
-    position: relative;
-    left: 230px;
-    top: -30px;
-    background-color: #AFEEEE;
-    display: none;
-    border: 2px solid lightblue;
-}
-.ddmenu-link-dj:hover .ddmenu-list-dj{display: block;}
-.pioneer:hover {
-    color: gray;
-}
-.numark:hover {
-    color: gray;
-} */

@@ -1,3 +1,19 @@
+.list , .ddmenu-list-g , .ddmenu-list-d , .ddmenu-list-dj , .ddmenu-list-w , .ddmenu-list-k , .ddmenu-list-gd {
+    z-index: 3;
+}
+.About {
+    z-index: 2;
+}
+.bg_img {
+    z-index: 1;
+}
+.bg_pos {
+    position: fixed;
+}
+
+.main {
+    z-index: 2;
+}
 
 .ddmenu-list-g {
     position: relative;
