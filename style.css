@@ -1,0 +1,19 @@
+.my-carousel > div {
+    height: 400px;
+    /* width: 300px; */
+    /* height: calc(100vh - 100px) */
+}
+
+.my-item {
+    background-color: aquamarine;
+    margin: 10px;
+    padding: 10px;
+}
+
+.my-carousel-prev {
+    background-color: red;
+}
+
+.my-carousel-next {
+    background-color: green;
+}
