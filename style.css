@@ -1,3 +1,9 @@
+.my-carousel{
+    position: absolute;
+    top:100px;
+    left:900px;
+    width:700px;
+}
 .my-carousel > div {
     height: 400px;
     /* width: 300px; */
@@ -9,11 +15,16 @@
     margin: 10px;
     padding: 10px;
 }
-
-.my-carousel-prev {
-    background-color: red;
-}
-
-.my-carousel-next {
-    background-color: green;
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: transparent;
+    border: 0;
+    outline: none;
+    background: transparent;
 }

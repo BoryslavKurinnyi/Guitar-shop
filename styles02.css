@@ -8,7 +8,7 @@
     background-color:aqua;
     position: absolute;
 }
-.Main_page_link{
+/* .Main_page_link{
     text-decoration: none;
     padding: 25px 10px;
     color:red;
@@ -25,7 +25,7 @@
     padding: 25px 10px;
     color:red;
     display: inline;
-}
+} */
 .list{
     top:100px;
     position: absolute;
@@ -94,24 +94,19 @@ body {
     background-color: #00FF00;
  
 }
-.About, .OTHER{
-position: absolute;
-width:600px;
-top:10px;
-margin-left: 350px;
 
-}
-.tovar_1_txt{
-position: absolute;
-top:440px;
-margin-left: 370px; 
-}
 .tovar_1_img {
 height: 275px;
 width: 200px;
 position: absolute;
 top:160px;
 margin-left: 410px;}
+
+.tovar_1_img_b {
+    height: 20px;
+    width: 20px;
+}
+
 .tovar_2 {
 height: 275px;
 width: 200px;
