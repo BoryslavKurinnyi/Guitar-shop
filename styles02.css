@@ -41,7 +41,6 @@ body {
 .drums , .wind_instr,  .guitar_devices{
      background-color: #AFEEEE;
     width: 230px;
-    font-family: cursive;
     font-weight: 800;
     
     font-size: 22px;
@@ -67,7 +66,6 @@ body {
 .guitars , .dj, .keyboard_instr{
     background-color: #AFEEEE;
     width: 230px;
-    font-family: cursive;
     font-weight: 800;
     
     font-size: 22px;
@@ -103,8 +101,8 @@ top:160px;
 margin-left: 410px;}
 
 .tovar_1_img_b {
-    height: 20px;
-    width: 20px;
+    height: 275px;
+    width: 200px;
 }
 
 .tovar_2 {
@@ -198,4 +196,7 @@ display:inline-block;
 height: 275px;
 width: 200px;
 
+}
+.my-item{
+    
 }
